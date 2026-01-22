@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolldorado Bonusy: Przewodnik po Promocjach Kasynowych on Rolldorado</title>
-    <link>http://roll-doradobet.pl/bonus/</link>
+    <link>http://localhost:1313/bonus/</link>
     <description>Recent content in Rolldorado Bonusy: Przewodnik po Promocjach Kasynowych on Rolldorado</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://roll-doradobet.pl/bonus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bonus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
